@@ -1,11 +1,11 @@
 Oh Github
 =========
 
-Do you know what I'd think was awesome? Well, this writing tool that you've made, I'm using it now - for the first time, and I think it is so subtly amazing that I'm actually enjoying writing this. This README.md file on http://github.com. 
+Do you know what I'd think is awesome? Well, this writing tool that you've made, I'm using it now - for the first time, and I think it is so subtly amazing that I'm actually enjoying writing this. This README.md file on http://github.com. 
 
 But do you what? 
 
-I can not even wait to start editing code on this, the thought of even starting from scratch  - `to make awesome things using code` just the thought  is making me happy already. And if I'm honest even just writing prose on it is enjoyable, I cant imagine how that must feel - I'm editing a markdown file now in what started as an effort to try out some thing that you've made. And I wont lie its looking good. 
+I can't even wait to start editing code on this, the thought of even starting from scratch  - `to make awesome things using code` just the thought  is making me go warm and fuzzy inside. And if I'm honest even just writing prose on it is enjoyable, I cant imagine how it must feel to write code - I'm editing a markdown file now - in what started as an effort to try out something that you've made. And I won't lie its looking good. 
 
 While writing this though for my own enjoyment two things happend. 
 
