@@ -40,6 +40,7 @@ This thing is brilliant. _See above_. I hope someone working at github.com reads
 
 SHA: ad708a85547bd93c8174bc45f6fe719f422822bc
 
+Some other views of this would be a fair addendum to this post, so here is @imjared 's [rather cynical take](https://gist.github.com/4627220) on the zen writing too. It almost only just goes to prove how simple and idea it reall it.
 I enjoyed writing this, if you enjoyed reading it you can find me on twitter [@christopherdebeer](http://twitter.com/christopherdb)
 
 Comments welcome, discuss on [Hacker News](http://news.ycombinator.com/item?id=5112242)
