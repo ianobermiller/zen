@@ -16,7 +16,7 @@ While writing this though for my own enjoyment two things happend.
 * And as a side effect of trying out something I saw that looked interesting and turned out to be brilliant, I thought wouldn't be great if, when editing markdown all lines that my cursor wasn't on, reverted to the actual markdown result?
 Thereby allowing me to stay "ine the zone" in a zen like undisturbed state while crafting the thing I want to craft using a simple (read: Gets out of my way but lets me do what I need to do when I need to do it) yet beautiful tool to both write and write code.
 
-If you got this far and you've not actually used Github's new zen writing tool, I seriously suggest you do ( here's [the link](https://github.com/blog/1379-zen-writing-mode), even if its just to [see how this page that I typed looked so amazing that I couldn't help but write it](https://github.com/christopherdebeer/zen/blob/master/README.md).
+If you got this far and you've not actually used Github's new zen writing tool, I seriously suggest you do - here's [the link](https://github.com/blog/1379-zen-writing-mode), even if its just to [see how this page that I typed looked so amazing that I couldn't help but write it](https://github.com/christopherdebeer/zen/blob/master/README.md).
 
 Thank you whoever made this. Thank you very much.
 
