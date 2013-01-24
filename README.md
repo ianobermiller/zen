@@ -7,6 +7,8 @@ But do you what?
 
 I can't even wait to start editing code on this, the thought of even starting from scratch  - `to make awesome things using code` just the thought  is making me go warm and fuzzy inside. And if I'm honest even just writing prose on it is enjoyable, I cant imagine how it must feel to write code - I'm editing a markdown file now - in what started as an effort to try out something that you've made. And I won't lie its looking good. 
 
+![Screenshot](https://raw.github.com/christopherdebeer/zen/master/README.md)
+
 While writing this though for my own enjoyment two things happend. 
 
 * I felt the overwhelming urge to thank someone at github for making this. Which if we're honest with each other dear reader is quite subjective - nice but subjective.
