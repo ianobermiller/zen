@@ -39,4 +39,3 @@ SHA: ad708a85547bd93c8174bc45f6fe719f422822bc
 
 I enjoyed writing this, if you enjoyed reading it you can find me on twitter [@christopherdebeer](http://twitter.com/christopherdb)
 
-
