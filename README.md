@@ -33,7 +33,7 @@ made by @github
 
 This thing is brilliant. _See above_. I hope someone working at github.com reads this, if only to express to them how much I love this thing that they've made writing code.
 
-``` As an after thought you should check out the first commit message of this file. I've pasted after this block using one of githubs nice little features (read: UX tid bit)```
+    As an after thought you should check out the first commit message of this file. I've pasted after this block using one of githubs nice little features (read: UX tid bit)
 
 SHA: ad708a85547bd93c8174bc45f6fe719f422822bc
 
